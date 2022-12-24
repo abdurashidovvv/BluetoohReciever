@@ -1,0 +1,1 @@
+package com.abdurashidov.bluetoohimport androidx.lifecycle.MutableLiveDataobject MyData {    var check:MutableLiveData<String>?=null}
